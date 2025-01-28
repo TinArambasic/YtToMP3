@@ -4,14 +4,13 @@
 NOTE: the .exe file can probably run without anything installed, but to ensure that errors dont happen in the app, do the following steps
 
 1. Install python
-2. Unzip the necessary.rar folder
-3. run terminal commands : pip install pytube moviepy 
+2. run terminal commands : pip install pytube moviepy 
 			   pip install --upgrade pip
-4. install FFmpeg from ffmpeg.org (You can follow this step guide for windows installation www.wikihow.com/Install-FFmpeg-on-Windows)
-6. check if ffmeg works correctly :
-		Open a new CMD 
+3. install FFmpeg from ffmpeg.org (You can follow this step guide for windows installation www.wikihow.com/Install-FFmpeg-on-Windows)
+4. check if ffmeg works correctly :
+		Open a new CMD terminal
 		run command: ffmpeg -version
-7. run YoutubeToMP3.exe
-8. Enjoy :)
+5. run YoutubeToMP3.exe
+6. Enjoy :)
 
-I have provided the source code if you desire to make the exe file yourself
+I have provided the source code if you desire to make the exe file yourself or if you want to upgrade the app
