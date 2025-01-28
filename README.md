@@ -14,4 +14,4 @@ NOTE: the .exe file can probably run without anything installed, but to ensure t
 7. run YoutubeToMP3.exe
 8. Enjoy :)
 
-
+I have provided the source code if you desire to make the exe file yourself
